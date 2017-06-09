@@ -1,0 +1,17 @@
+﻿@model IList<Demo.WebApp.Models.ContactInfo>
+
+<html>
+<head>
+    <title>Contact List</title>
+</head>
+<body>
+    <ul>
+        @foreach(var contact in Model)
+        {
+            <li>
+                @contact.Name | @contact.Email
+            </li>
+        }
+    </ul>
+</body>
+</html>
