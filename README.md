@@ -1,3 +1,7 @@
+# ARCHIVED
+I have archived this repo.  A newer version of this talk is available at https://github.com/joegardnr/TestingAspNetCore
+
+
 # CodePaLOUsa 2017 Slides and Demos
 ## Writing Tests for ASP.Net Core
 
